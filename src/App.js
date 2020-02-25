@@ -1,5 +1,6 @@
 import React from 'react';
 import Pet from './components/Pet';
+import './App.css';
 import SearchParams from './components/SearchParams';
 
 const App = () => {
